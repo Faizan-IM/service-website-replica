@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Texas",
+        "slug": "tx",
+        "abbr": "TX",
+        "cities": [
+            {
+                "name": "Austin",
+                "slug": "austin",
+                "description": "Proudly serving the Austin community with a variety of services.",
+                "branches": [
+                    {
+                        "name": "Sears Appliance Repair",
+                        "slug": "2901-s-capitol-of-texas-highway",
+                        "address": "2901 S Capitol of Texas Highway",
+                        "phone": "(512) 337-4522",
+                        "zip_code": "78746"
+                    },
+                    {
+                        "name": "Sears Appliance Repair",
+                        "slug": "12625-n-i-h-35",
+                        "address": "12625 N I-H 35",
+                        "phone": "(512) 595-7278",
+                        "zip_code": "78753"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "North Dakota",
+        "slug": "nd",
+        "abbr": "ND",
+        "cities": [
+            {
+                "name": "Bismarck",
+                "slug": "bismarck",
+                "description": "Expert technicians in Bismarck.",
+                "branches": [
+                    {
+                        "name": "Sears Appliance Repair",
+                        "slug": "2700-state-st",
+                        "address": "2700 State St",
+                        "phone": "(701) 555-0199",
+                        "zip_code": "58503"
+                    }
+                ]
+            }
+        ]
+    }
+]
