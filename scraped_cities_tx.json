@@ -1,0 +1,2887 @@
+[
+    {
+        "name": "Arlington",
+        "slug": "arlington",
+        "description": "Appliance repair services in Arlington."
+    },
+    {
+        "name": "Austin",
+        "slug": "austin",
+        "description": "Appliance repair services in Austin."
+    },
+    {
+        "name": "Corpus Christi",
+        "slug": "corpus-christi",
+        "description": "Appliance repair services in Corpus Christi."
+    },
+    {
+        "name": "Dallas",
+        "slug": "dallas",
+        "description": "Appliance repair services in Dallas."
+    },
+    {
+        "name": "Denton",
+        "slug": "denton",
+        "description": "Appliance repair services in Denton."
+    },
+    {
+        "name": "El Paso",
+        "slug": "el-paso",
+        "description": "Appliance repair services in El Paso."
+    },
+    {
+        "name": "Fort Worth",
+        "slug": "fort-worth",
+        "description": "Appliance repair services in Fort Worth."
+    },
+    {
+        "name": "Houston",
+        "slug": "houston",
+        "description": "Appliance repair services in Houston."
+    },
+    {
+        "name": "McAllen",
+        "slug": "mcallen",
+        "description": "Appliance repair services in McAllen."
+    },
+    {
+        "name": "San Antonio",
+        "slug": "san-antonio",
+        "description": "Appliance repair services in San Antonio."
+    },
+    {
+        "name": "Abilene",
+        "slug": "abilene",
+        "description": "Appliance repair services in Abilene."
+    },
+    {
+        "name": "Addison",
+        "slug": "addison",
+        "description": "Appliance repair services in Addison."
+    },
+    {
+        "name": "Alamo",
+        "slug": "alamo",
+        "description": "Appliance repair services in Alamo."
+    },
+    {
+        "name": "Alamo Heights",
+        "slug": "alamo-heights",
+        "description": "Appliance repair services in Alamo Heights."
+    },
+    {
+        "name": "Aldine",
+        "slug": "aldine",
+        "description": "Appliance repair services in Aldine."
+    },
+    {
+        "name": "Aledo",
+        "slug": "aledo",
+        "description": "Appliance repair services in Aledo."
+    },
+    {
+        "name": "Alice",
+        "slug": "alice",
+        "description": "Appliance repair services in Alice."
+    },
+    {
+        "name": "Allen",
+        "slug": "allen",
+        "description": "Appliance repair services in Allen."
+    },
+    {
+        "name": "Alpine",
+        "slug": "alpine",
+        "description": "Appliance repair services in Alpine."
+    },
+    {
+        "name": "Alton",
+        "slug": "alton",
+        "description": "Appliance repair services in Alton."
+    },
+    {
+        "name": "Alvarado",
+        "slug": "alvarado",
+        "description": "Appliance repair services in Alvarado."
+    },
+    {
+        "name": "Alvin",
+        "slug": "alvin",
+        "description": "Appliance repair services in Alvin."
+    },
+    {
+        "name": "Amarillo",
+        "slug": "amarillo",
+        "description": "Appliance repair services in Amarillo."
+    },
+    {
+        "name": "Andrews",
+        "slug": "andrews",
+        "description": "Appliance repair services in Andrews."
+    },
+    {
+        "name": "Angleton",
+        "slug": "angleton",
+        "description": "Appliance repair services in Angleton."
+    },
+    {
+        "name": "Anna",
+        "slug": "anna",
+        "description": "Appliance repair services in Anna."
+    },
+    {
+        "name": "Annetta",
+        "slug": "annetta",
+        "description": "Appliance repair services in Annetta."
+    },
+    {
+        "name": "Anthony",
+        "slug": "anthony",
+        "description": "Appliance repair services in Anthony."
+    },
+    {
+        "name": "Aransas Pass",
+        "slug": "aransas-pass",
+        "description": "Appliance repair services in Aransas Pass."
+    },
+    {
+        "name": "Argyle",
+        "slug": "argyle",
+        "description": "Appliance repair services in Argyle."
+    },
+    {
+        "name": "Atascocita",
+        "slug": "atascocita",
+        "description": "Appliance repair services in Atascocita."
+    },
+    {
+        "name": "Athens",
+        "slug": "athens",
+        "description": "Appliance repair services in Athens."
+    },
+    {
+        "name": "Atlanta",
+        "slug": "atlanta",
+        "description": "Appliance repair services in Atlanta."
+    },
+    {
+        "name": "Aubrey",
+        "slug": "aubrey",
+        "description": "Appliance repair services in Aubrey."
+    },
+    {
+        "name": "Azle",
+        "slug": "azle",
+        "description": "Appliance repair services in Azle."
+    },
+    {
+        "name": "Bacliff",
+        "slug": "bacliff",
+        "description": "Appliance repair services in Bacliff."
+    },
+    {
+        "name": "Balch Springs",
+        "slug": "balch-springs",
+        "description": "Appliance repair services in Balch Springs."
+    },
+    {
+        "name": "Balcones Heights",
+        "slug": "balcones-heights",
+        "description": "Appliance repair services in Balcones Heights."
+    },
+    {
+        "name": "Ballinger",
+        "slug": "ballinger",
+        "description": "Appliance repair services in Ballinger."
+    },
+    {
+        "name": "Barrett",
+        "slug": "barrett",
+        "description": "Appliance repair services in Barrett."
+    },
+    {
+        "name": "Bartlett",
+        "slug": "bartlett",
+        "description": "Appliance repair services in Bartlett."
+    },
+    {
+        "name": "Bastrop",
+        "slug": "bastrop",
+        "description": "Appliance repair services in Bastrop."
+    },
+    {
+        "name": "Bay City",
+        "slug": "bay-city",
+        "description": "Appliance repair services in Bay City."
+    },
+    {
+        "name": "Baytown",
+        "slug": "baytown",
+        "description": "Appliance repair services in Baytown."
+    },
+    {
+        "name": "Beaumont",
+        "slug": "beaumont",
+        "description": "Appliance repair services in Beaumont."
+    },
+    {
+        "name": "Bedford",
+        "slug": "bedford",
+        "description": "Appliance repair services in Bedford."
+    },
+    {
+        "name": "Bee Cave",
+        "slug": "bee-cave",
+        "description": "Appliance repair services in Bee Cave."
+    },
+    {
+        "name": "Beeville",
+        "slug": "beeville",
+        "description": "Appliance repair services in Beeville."
+    },
+    {
+        "name": "Bellaire",
+        "slug": "bellaire",
+        "description": "Appliance repair services in Bellaire."
+    },
+    {
+        "name": "Bellmead",
+        "slug": "bellmead",
+        "description": "Appliance repair services in Bellmead."
+    },
+    {
+        "name": "Bellville",
+        "slug": "bellville",
+        "description": "Appliance repair services in Bellville."
+    },
+    {
+        "name": "Belton",
+        "slug": "belton",
+        "description": "Appliance repair services in Belton."
+    },
+    {
+        "name": "Benbrook",
+        "slug": "benbrook",
+        "description": "Appliance repair services in Benbrook."
+    },
+    {
+        "name": "Big Lake",
+        "slug": "big-lake",
+        "description": "Appliance repair services in Big Lake."
+    },
+    {
+        "name": "Big Spring",
+        "slug": "big-spring",
+        "description": "Appliance repair services in Big Spring."
+    },
+    {
+        "name": "Bishop",
+        "slug": "bishop",
+        "description": "Appliance repair services in Bishop."
+    },
+    {
+        "name": "Blanco",
+        "slug": "blanco",
+        "description": "Appliance repair services in Blanco."
+    },
+    {
+        "name": "Boerne",
+        "slug": "boerne",
+        "description": "Appliance repair services in Boerne."
+    },
+    {
+        "name": "Bonham",
+        "slug": "bonham",
+        "description": "Appliance repair services in Bonham."
+    },
+    {
+        "name": "Borger",
+        "slug": "borger",
+        "description": "Appliance repair services in Borger."
+    },
+    {
+        "name": "Bowie",
+        "slug": "bowie",
+        "description": "Appliance repair services in Bowie."
+    },
+    {
+        "name": "Brady",
+        "slug": "brady",
+        "description": "Appliance repair services in Brady."
+    },
+    {
+        "name": "Brazoria",
+        "slug": "brazoria",
+        "description": "Appliance repair services in Brazoria."
+    },
+    {
+        "name": "Breckenridge",
+        "slug": "breckenridge",
+        "description": "Appliance repair services in Breckenridge."
+    },
+    {
+        "name": "Brenham",
+        "slug": "brenham",
+        "description": "Appliance repair services in Brenham."
+    },
+    {
+        "name": "Briar",
+        "slug": "briar",
+        "description": "Appliance repair services in Briar."
+    },
+    {
+        "name": "Bridge City",
+        "slug": "bridge-city",
+        "description": "Appliance repair services in Bridge City."
+    },
+    {
+        "name": "Bridgeport",
+        "slug": "bridgeport",
+        "description": "Appliance repair services in Bridgeport."
+    },
+    {
+        "name": "Brookshire",
+        "slug": "brookshire",
+        "description": "Appliance repair services in Brookshire."
+    },
+    {
+        "name": "Brownfield",
+        "slug": "brownfield",
+        "description": "Appliance repair services in Brownfield."
+    },
+    {
+        "name": "Brownsville",
+        "slug": "brownsville",
+        "description": "Appliance repair services in Brownsville."
+    },
+    {
+        "name": "Brownwood",
+        "slug": "brownwood",
+        "description": "Appliance repair services in Brownwood."
+    },
+    {
+        "name": "Brushy Creek",
+        "slug": "brushy-creek",
+        "description": "Appliance repair services in Brushy Creek."
+    },
+    {
+        "name": "Bryan",
+        "slug": "bryan",
+        "description": "Appliance repair services in Bryan."
+    },
+    {
+        "name": "Buda",
+        "slug": "buda",
+        "description": "Appliance repair services in Buda."
+    },
+    {
+        "name": "Bullard",
+        "slug": "bullard",
+        "description": "Appliance repair services in Bullard."
+    },
+    {
+        "name": "Bulverde",
+        "slug": "bulverde",
+        "description": "Appliance repair services in Bulverde."
+    },
+    {
+        "name": "Bunker Hill Village",
+        "slug": "bunker-hill-village",
+        "description": "Appliance repair services in Bunker Hill Village."
+    },
+    {
+        "name": "Burkburnett",
+        "slug": "burkburnett",
+        "description": "Appliance repair services in Burkburnett."
+    },
+    {
+        "name": "Burleson",
+        "slug": "burleson",
+        "description": "Appliance repair services in Burleson."
+    },
+    {
+        "name": "Burnet",
+        "slug": "burnet",
+        "description": "Appliance repair services in Burnet."
+    },
+    {
+        "name": "Cactus",
+        "slug": "cactus",
+        "description": "Appliance repair services in Cactus."
+    },
+    {
+        "name": "Caldwell",
+        "slug": "caldwell",
+        "description": "Appliance repair services in Caldwell."
+    },
+    {
+        "name": "Cameron",
+        "slug": "cameron",
+        "description": "Appliance repair services in Cameron."
+    },
+    {
+        "name": "Cameron Park",
+        "slug": "cameron-park",
+        "description": "Appliance repair services in Cameron Park."
+    },
+    {
+        "name": "Camp Swift",
+        "slug": "camp-swift",
+        "description": "Appliance repair services in Camp Swift."
+    },
+    {
+        "name": "Canton",
+        "slug": "canton",
+        "description": "Appliance repair services in Canton."
+    },
+    {
+        "name": "Canutillo",
+        "slug": "canutillo",
+        "description": "Appliance repair services in Canutillo."
+    },
+    {
+        "name": "Canyon",
+        "slug": "canyon",
+        "description": "Appliance repair services in Canyon."
+    },
+    {
+        "name": "Canyon Lake",
+        "slug": "canyon-lake",
+        "description": "Appliance repair services in Canyon Lake."
+    },
+    {
+        "name": "Carrizo Springs",
+        "slug": "carrizo-springs",
+        "description": "Appliance repair services in Carrizo Springs."
+    },
+    {
+        "name": "Carrollton",
+        "slug": "carrollton",
+        "description": "Appliance repair services in Carrollton."
+    },
+    {
+        "name": "Carthage",
+        "slug": "carthage",
+        "description": "Appliance repair services in Carthage."
+    },
+    {
+        "name": "Castle Hills",
+        "slug": "castle-hills",
+        "description": "Appliance repair services in Castle Hills."
+    },
+    {
+        "name": "Castroville",
+        "slug": "castroville",
+        "description": "Appliance repair services in Castroville."
+    },
+    {
+        "name": "Cedar Hill",
+        "slug": "cedar-hill",
+        "description": "Appliance repair services in Cedar Hill."
+    },
+    {
+        "name": "Cedar Park",
+        "slug": "cedar-park",
+        "description": "Appliance repair services in Cedar Park."
+    },
+    {
+        "name": "Celina",
+        "slug": "celina",
+        "description": "Appliance repair services in Celina."
+    },
+    {
+        "name": "Center",
+        "slug": "center",
+        "description": "Appliance repair services in Center."
+    },
+    {
+        "name": "Central Gardens",
+        "slug": "central-gardens",
+        "description": "Appliance repair services in Central Gardens."
+    },
+    {
+        "name": "Chandler",
+        "slug": "chandler",
+        "description": "Appliance repair services in Chandler."
+    },
+    {
+        "name": "Channelview",
+        "slug": "channelview",
+        "description": "Appliance repair services in Channelview."
+    },
+    {
+        "name": "Childress",
+        "slug": "childress",
+        "description": "Appliance repair services in Childress."
+    },
+    {
+        "name": "Chula Vista",
+        "slug": "chula-vista",
+        "description": "Appliance repair services in Chula Vista."
+    },
+    {
+        "name": "Cibolo",
+        "slug": "cibolo",
+        "description": "Appliance repair services in Cibolo."
+    },
+    {
+        "name": "Cienegas Terrace",
+        "slug": "cienegas-terrace",
+        "description": "Appliance repair services in Cienegas Terrace."
+    },
+    {
+        "name": "Cinco Ranch",
+        "slug": "cinco-ranch",
+        "description": "Appliance repair services in Cinco Ranch."
+    },
+    {
+        "name": "Cisco",
+        "slug": "cisco",
+        "description": "Appliance repair services in Cisco."
+    },
+    {
+        "name": "Clarksville",
+        "slug": "clarksville",
+        "description": "Appliance repair services in Clarksville."
+    },
+    {
+        "name": "Cleburne",
+        "slug": "cleburne",
+        "description": "Appliance repair services in Cleburne."
+    },
+    {
+        "name": "Cleveland",
+        "slug": "cleveland",
+        "description": "Appliance repair services in Cleveland."
+    },
+    {
+        "name": "Clifton",
+        "slug": "clifton",
+        "description": "Appliance repair services in Clifton."
+    },
+    {
+        "name": "Cloverleaf",
+        "slug": "cloverleaf",
+        "description": "Appliance repair services in Cloverleaf."
+    },
+    {
+        "name": "Clute",
+        "slug": "clute",
+        "description": "Appliance repair services in Clute."
+    },
+    {
+        "name": "Clyde",
+        "slug": "clyde",
+        "description": "Appliance repair services in Clyde."
+    },
+    {
+        "name": "Cockrell Hill",
+        "slug": "cockrell-hill",
+        "description": "Appliance repair services in Cockrell Hill."
+    },
+    {
+        "name": "Coleman",
+        "slug": "coleman",
+        "description": "Appliance repair services in Coleman."
+    },
+    {
+        "name": "College Station",
+        "slug": "college-station",
+        "description": "Appliance repair services in College Station."
+    },
+    {
+        "name": "Colleyville",
+        "slug": "colleyville",
+        "description": "Appliance repair services in Colleyville."
+    },
+    {
+        "name": "Colorado City",
+        "slug": "colorado-city",
+        "description": "Appliance repair services in Colorado City."
+    },
+    {
+        "name": "Columbus",
+        "slug": "columbus",
+        "description": "Appliance repair services in Columbus."
+    },
+    {
+        "name": "Comanche",
+        "slug": "comanche",
+        "description": "Appliance repair services in Comanche."
+    },
+    {
+        "name": "Combes",
+        "slug": "combes",
+        "description": "Appliance repair services in Combes."
+    },
+    {
+        "name": "Comfort",
+        "slug": "comfort",
+        "description": "Appliance repair services in Comfort."
+    },
+    {
+        "name": "Commerce",
+        "slug": "commerce",
+        "description": "Appliance repair services in Commerce."
+    },
+    {
+        "name": "Conroe",
+        "slug": "conroe",
+        "description": "Appliance repair services in Conroe."
+    },
+    {
+        "name": "Converse",
+        "slug": "converse",
+        "description": "Appliance repair services in Converse."
+    },
+    {
+        "name": "Coppell",
+        "slug": "coppell",
+        "description": "Appliance repair services in Coppell."
+    },
+    {
+        "name": "Copperas Cove",
+        "slug": "copperas-cove",
+        "description": "Appliance repair services in Copperas Cove."
+    },
+    {
+        "name": "Corinth",
+        "slug": "corinth",
+        "description": "Appliance repair services in Corinth."
+    },
+    {
+        "name": "Corsicana",
+        "slug": "corsicana",
+        "description": "Appliance repair services in Corsicana."
+    },
+    {
+        "name": "Cotulla",
+        "slug": "cotulla",
+        "description": "Appliance repair services in Cotulla."
+    },
+    {
+        "name": "Crandall",
+        "slug": "crandall",
+        "description": "Appliance repair services in Crandall."
+    },
+    {
+        "name": "Crane",
+        "slug": "crane",
+        "description": "Appliance repair services in Crane."
+    },
+    {
+        "name": "Crockett",
+        "slug": "crockett",
+        "description": "Appliance repair services in Crockett."
+    },
+    {
+        "name": "Cross Mountain",
+        "slug": "cross-mountain",
+        "description": "Appliance repair services in Cross Mountain."
+    },
+    {
+        "name": "Crowley",
+        "slug": "crowley",
+        "description": "Appliance repair services in Crowley."
+    },
+    {
+        "name": "Crystal City",
+        "slug": "crystal-city",
+        "description": "Appliance repair services in Crystal City."
+    },
+    {
+        "name": "Cuero",
+        "slug": "cuero",
+        "description": "Appliance repair services in Cuero."
+    },
+    {
+        "name": "Cypress",
+        "slug": "cypress",
+        "description": "Appliance repair services in Cypress."
+    },
+    {
+        "name": "Daingerfield",
+        "slug": "daingerfield",
+        "description": "Appliance repair services in Daingerfield."
+    },
+    {
+        "name": "Dalhart",
+        "slug": "dalhart",
+        "description": "Appliance repair services in Dalhart."
+    },
+    {
+        "name": "Dayton",
+        "slug": "dayton",
+        "description": "Appliance repair services in Dayton."
+    },
+    {
+        "name": "Decatur",
+        "slug": "decatur",
+        "description": "Appliance repair services in Decatur."
+    },
+    {
+        "name": "Deer Park",
+        "slug": "deer-park",
+        "description": "Appliance repair services in Deer Park."
+    },
+    {
+        "name": "Del Rio",
+        "slug": "del-rio",
+        "description": "Appliance repair services in Del Rio."
+    },
+    {
+        "name": "Denison",
+        "slug": "denison",
+        "description": "Appliance repair services in Denison."
+    },
+    {
+        "name": "Denver City",
+        "slug": "denver-city",
+        "description": "Appliance repair services in Denver City."
+    },
+    {
+        "name": "DeSoto",
+        "slug": "desoto",
+        "description": "Appliance repair services in DeSoto."
+    },
+    {
+        "name": "Devine",
+        "slug": "devine",
+        "description": "Appliance repair services in Devine."
+    },
+    {
+        "name": "Diboll",
+        "slug": "diboll",
+        "description": "Appliance repair services in Diboll."
+    },
+    {
+        "name": "Dickinson",
+        "slug": "dickinson",
+        "description": "Appliance repair services in Dickinson."
+    },
+    {
+        "name": "Dilley",
+        "slug": "dilley",
+        "description": "Appliance repair services in Dilley."
+    },
+    {
+        "name": "Dimmitt",
+        "slug": "dimmitt",
+        "description": "Appliance repair services in Dimmitt."
+    },
+    {
+        "name": "Doffing",
+        "slug": "doffing",
+        "description": "Appliance repair services in Doffing."
+    },
+    {
+        "name": "Donna",
+        "slug": "donna",
+        "description": "Appliance repair services in Donna."
+    },
+    {
+        "name": "Doolittle",
+        "slug": "doolittle",
+        "description": "Appliance repair services in Doolittle."
+    },
+    {
+        "name": "Double Oak",
+        "slug": "double-oak",
+        "description": "Appliance repair services in Double Oak."
+    },
+    {
+        "name": "Dripping Springs",
+        "slug": "dripping-springs",
+        "description": "Appliance repair services in Dripping Springs."
+    },
+    {
+        "name": "Dublin",
+        "slug": "dublin",
+        "description": "Appliance repair services in Dublin."
+    },
+    {
+        "name": "Dumas",
+        "slug": "dumas",
+        "description": "Appliance repair services in Dumas."
+    },
+    {
+        "name": "Duncanville",
+        "slug": "duncanville",
+        "description": "Appliance repair services in Duncanville."
+    },
+    {
+        "name": "Eagle Lake",
+        "slug": "eagle-lake",
+        "description": "Appliance repair services in Eagle Lake."
+    },
+    {
+        "name": "Eagle Pass",
+        "slug": "eagle-pass",
+        "description": "Appliance repair services in Eagle Pass."
+    },
+    {
+        "name": "Early",
+        "slug": "early",
+        "description": "Appliance repair services in Early."
+    },
+    {
+        "name": "Eastland",
+        "slug": "eastland",
+        "description": "Appliance repair services in Eastland."
+    },
+    {
+        "name": "Edcouch",
+        "slug": "edcouch",
+        "description": "Appliance repair services in Edcouch."
+    },
+    {
+        "name": "Edgecliff Village",
+        "slug": "edgecliff-village",
+        "description": "Appliance repair services in Edgecliff Village."
+    },
+    {
+        "name": "Edinburg",
+        "slug": "edinburg",
+        "description": "Appliance repair services in Edinburg."
+    },
+    {
+        "name": "Edna",
+        "slug": "edna",
+        "description": "Appliance repair services in Edna."
+    },
+    {
+        "name": "Eidson Road",
+        "slug": "eidson-road",
+        "description": "Appliance repair services in Eidson Road."
+    },
+    {
+        "name": "El Campo",
+        "slug": "el-campo",
+        "description": "Appliance repair services in El Campo."
+    },
+    {
+        "name": "El Cenizo",
+        "slug": "el-cenizo",
+        "description": "Appliance repair services in El Cenizo."
+    },
+    {
+        "name": "Elgin",
+        "slug": "elgin",
+        "description": "Appliance repair services in Elgin."
+    },
+    {
+        "name": "Elsa",
+        "slug": "elsa",
+        "description": "Appliance repair services in Elsa."
+    },
+    {
+        "name": "Ennis",
+        "slug": "ennis",
+        "description": "Appliance repair services in Ennis."
+    },
+    {
+        "name": "Euless",
+        "slug": "euless",
+        "description": "Appliance repair services in Euless."
+    },
+    {
+        "name": "Everman",
+        "slug": "everman",
+        "description": "Appliance repair services in Everman."
+    },
+    {
+        "name": "Fabens",
+        "slug": "fabens",
+        "description": "Appliance repair services in Fabens."
+    },
+    {
+        "name": "Fair Oaks Ranch",
+        "slug": "fair-oaks-ranch",
+        "description": "Appliance repair services in Fair Oaks Ranch."
+    },
+    {
+        "name": "Fairfield",
+        "slug": "fairfield",
+        "description": "Appliance repair services in Fairfield."
+    },
+    {
+        "name": "Fairview",
+        "slug": "fairview",
+        "description": "Appliance repair services in Fairview."
+    },
+    {
+        "name": "Falfurrias",
+        "slug": "falfurrias",
+        "description": "Appliance repair services in Falfurrias."
+    },
+    {
+        "name": "Farmers Branch",
+        "slug": "farmers-branch",
+        "description": "Appliance repair services in Farmers Branch."
+    },
+    {
+        "name": "Farmersville",
+        "slug": "farmersville",
+        "description": "Appliance repair services in Farmersville."
+    },
+    {
+        "name": "Fate",
+        "slug": "fate",
+        "description": "Appliance repair services in Fate."
+    },
+    {
+        "name": "Floresville",
+        "slug": "floresville",
+        "description": "Appliance repair services in Floresville."
+    },
+    {
+        "name": "Flower Mound",
+        "slug": "flower-mound",
+        "description": "Appliance repair services in Flower Mound."
+    },
+    {
+        "name": "Forest Hill",
+        "slug": "forest-hill",
+        "description": "Appliance repair services in Forest Hill."
+    },
+    {
+        "name": "Forney",
+        "slug": "forney",
+        "description": "Appliance repair services in Forney."
+    },
+    {
+        "name": "Fort Bliss",
+        "slug": "fort-bliss",
+        "description": "Appliance repair services in Fort Bliss."
+    },
+    {
+        "name": "Fort Hood",
+        "slug": "fort-hood",
+        "description": "Appliance repair services in Fort Hood."
+    },
+    {
+        "name": "Fort Stockton",
+        "slug": "fort-stockton",
+        "description": "Appliance repair services in Fort Stockton."
+    },
+    {
+        "name": "Four Corners",
+        "slug": "four-corners",
+        "description": "Appliance repair services in Four Corners."
+    },
+    {
+        "name": "Fredericksburg",
+        "slug": "fredericksburg",
+        "description": "Appliance repair services in Fredericksburg."
+    },
+    {
+        "name": "Freeport",
+        "slug": "freeport",
+        "description": "Appliance repair services in Freeport."
+    },
+    {
+        "name": "Fresno",
+        "slug": "fresno",
+        "description": "Appliance repair services in Fresno."
+    },
+    {
+        "name": "Friendswood",
+        "slug": "friendswood",
+        "description": "Appliance repair services in Friendswood."
+    },
+    {
+        "name": "Friona",
+        "slug": "friona",
+        "description": "Appliance repair services in Friona."
+    },
+    {
+        "name": "Frisco",
+        "slug": "frisco",
+        "description": "Appliance repair services in Frisco."
+    },
+    {
+        "name": "Fritch",
+        "slug": "fritch",
+        "description": "Appliance repair services in Fritch."
+    },
+    {
+        "name": "Fulshear",
+        "slug": "fulshear",
+        "description": "Appliance repair services in Fulshear."
+    },
+    {
+        "name": "Gainesville",
+        "slug": "gainesville",
+        "description": "Appliance repair services in Gainesville."
+    },
+    {
+        "name": "Galena Park",
+        "slug": "galena-park",
+        "description": "Appliance repair services in Galena Park."
+    },
+    {
+        "name": "Galveston",
+        "slug": "galveston",
+        "description": "Appliance repair services in Galveston."
+    },
+    {
+        "name": "Garden Ridge",
+        "slug": "garden-ridge",
+        "description": "Appliance repair services in Garden Ridge."
+    },
+    {
+        "name": "Garland",
+        "slug": "garland",
+        "description": "Appliance repair services in Garland."
+    },
+    {
+        "name": "Gatesville",
+        "slug": "gatesville",
+        "description": "Appliance repair services in Gatesville."
+    },
+    {
+        "name": "Georgetown",
+        "slug": "georgetown",
+        "description": "Appliance repair services in Georgetown."
+    },
+    {
+        "name": "Giddings",
+        "slug": "giddings",
+        "description": "Appliance repair services in Giddings."
+    },
+    {
+        "name": "Gilmer",
+        "slug": "gilmer",
+        "description": "Appliance repair services in Gilmer."
+    },
+    {
+        "name": "Gladewater",
+        "slug": "gladewater",
+        "description": "Appliance repair services in Gladewater."
+    },
+    {
+        "name": "Glenn Heights",
+        "slug": "glenn-heights",
+        "description": "Appliance repair services in Glenn Heights."
+    },
+    {
+        "name": "Gonzales",
+        "slug": "gonzales",
+        "description": "Appliance repair services in Gonzales."
+    },
+    {
+        "name": "Graham",
+        "slug": "graham",
+        "description": "Appliance repair services in Graham."
+    },
+    {
+        "name": "Granbury",
+        "slug": "granbury",
+        "description": "Appliance repair services in Granbury."
+    },
+    {
+        "name": "Grand Prairie",
+        "slug": "grand-prairie",
+        "description": "Appliance repair services in Grand Prairie."
+    },
+    {
+        "name": "Grand Saline",
+        "slug": "grand-saline",
+        "description": "Appliance repair services in Grand Saline."
+    },
+    {
+        "name": "Granite Shoals",
+        "slug": "granite-shoals",
+        "description": "Appliance repair services in Granite Shoals."
+    },
+    {
+        "name": "Grapevine",
+        "slug": "grapevine",
+        "description": "Appliance repair services in Grapevine."
+    },
+    {
+        "name": "Greenville",
+        "slug": "greenville",
+        "description": "Appliance repair services in Greenville."
+    },
+    {
+        "name": "Groesbeck",
+        "slug": "groesbeck",
+        "description": "Appliance repair services in Groesbeck."
+    },
+    {
+        "name": "Groves",
+        "slug": "groves",
+        "description": "Appliance repair services in Groves."
+    },
+    {
+        "name": "Gun Barrel City",
+        "slug": "gun-barrel-city",
+        "description": "Appliance repair services in Gun Barrel City."
+    },
+    {
+        "name": "Hallsville",
+        "slug": "hallsville",
+        "description": "Appliance repair services in Hallsville."
+    },
+    {
+        "name": "Haltom City",
+        "slug": "haltom-city",
+        "description": "Appliance repair services in Haltom City."
+    },
+    {
+        "name": "Harker Heights",
+        "slug": "harker-heights",
+        "description": "Appliance repair services in Harker Heights."
+    },
+    {
+        "name": "Harlingen",
+        "slug": "harlingen",
+        "description": "Appliance repair services in Harlingen."
+    },
+    {
+        "name": "Hearne",
+        "slug": "hearne",
+        "description": "Appliance repair services in Hearne."
+    },
+    {
+        "name": "Heath",
+        "slug": "heath",
+        "description": "Appliance repair services in Heath."
+    },
+    {
+        "name": "Hebbronville",
+        "slug": "hebbronville",
+        "description": "Appliance repair services in Hebbronville."
+    },
+    {
+        "name": "Helotes",
+        "slug": "helotes",
+        "description": "Appliance repair services in Helotes."
+    },
+    {
+        "name": "Hempstead",
+        "slug": "hempstead",
+        "description": "Appliance repair services in Hempstead."
+    },
+    {
+        "name": "Henderson",
+        "slug": "henderson",
+        "description": "Appliance repair services in Henderson."
+    },
+    {
+        "name": "Hereford",
+        "slug": "hereford",
+        "description": "Appliance repair services in Hereford."
+    },
+    {
+        "name": "Hewitt",
+        "slug": "hewitt",
+        "description": "Appliance repair services in Hewitt."
+    },
+    {
+        "name": "Hickory Creek",
+        "slug": "hickory-creek",
+        "description": "Appliance repair services in Hickory Creek."
+    },
+    {
+        "name": "Hidalgo",
+        "slug": "hidalgo",
+        "description": "Appliance repair services in Hidalgo."
+    },
+    {
+        "name": "Hideaway",
+        "slug": "hideaway",
+        "description": "Appliance repair services in Hideaway."
+    },
+    {
+        "name": "Highland Park",
+        "slug": "highland-park",
+        "description": "Appliance repair services in Highland Park."
+    },
+    {
+        "name": "Highland Village",
+        "slug": "highland-village",
+        "description": "Appliance repair services in Highland Village."
+    },
+    {
+        "name": "Highlands",
+        "slug": "highlands",
+        "description": "Appliance repair services in Highlands."
+    },
+    {
+        "name": "Hillsboro",
+        "slug": "hillsboro",
+        "description": "Appliance repair services in Hillsboro."
+    },
+    {
+        "name": "Hitchcock",
+        "slug": "hitchcock",
+        "description": "Appliance repair services in Hitchcock."
+    },
+    {
+        "name": "Hollywood Park",
+        "slug": "hollywood-park",
+        "description": "Appliance repair services in Hollywood Park."
+    },
+    {
+        "name": "Homestead Meadows North",
+        "slug": "homestead-meadows-north",
+        "description": "Appliance repair services in Homestead Meadows North."
+    },
+    {
+        "name": "Homestead Meadows South",
+        "slug": "homestead-meadows-south",
+        "description": "Appliance repair services in Homestead Meadows South."
+    },
+    {
+        "name": "Hondo",
+        "slug": "hondo",
+        "description": "Appliance repair services in Hondo."
+    },
+    {
+        "name": "Horizon City",
+        "slug": "horizon-city",
+        "description": "Appliance repair services in Horizon City."
+    },
+    {
+        "name": "Hornsby Bend",
+        "slug": "hornsby-bend",
+        "description": "Appliance repair services in Hornsby Bend."
+    },
+    {
+        "name": "Horseshoe Bay",
+        "slug": "horseshoe-bay",
+        "description": "Appliance repair services in Horseshoe Bay."
+    },
+    {
+        "name": "Howe",
+        "slug": "howe",
+        "description": "Appliance repair services in Howe."
+    },
+    {
+        "name": "Hudson",
+        "slug": "hudson",
+        "description": "Appliance repair services in Hudson."
+    },
+    {
+        "name": "Humble",
+        "slug": "humble",
+        "description": "Appliance repair services in Humble."
+    },
+    {
+        "name": "Hunters Creek Village",
+        "slug": "hunters-creek-village",
+        "description": "Appliance repair services in Hunters Creek Village."
+    },
+    {
+        "name": "Huntsville",
+        "slug": "huntsville",
+        "description": "Appliance repair services in Huntsville."
+    },
+    {
+        "name": "Hurst",
+        "slug": "hurst",
+        "description": "Appliance repair services in Hurst."
+    },
+    {
+        "name": "Hutchins",
+        "slug": "hutchins",
+        "description": "Appliance repair services in Hutchins."
+    },
+    {
+        "name": "Hutto",
+        "slug": "hutto",
+        "description": "Appliance repair services in Hutto."
+    },
+    {
+        "name": "Ingleside",
+        "slug": "ingleside",
+        "description": "Appliance repair services in Ingleside."
+    },
+    {
+        "name": "Iowa Park",
+        "slug": "iowa-park",
+        "description": "Appliance repair services in Iowa Park."
+    },
+    {
+        "name": "Irving",
+        "slug": "irving",
+        "description": "Appliance repair services in Irving."
+    },
+    {
+        "name": "Jacinto City",
+        "slug": "jacinto-city",
+        "description": "Appliance repair services in Jacinto City."
+    },
+    {
+        "name": "Jacksboro",
+        "slug": "jacksboro",
+        "description": "Appliance repair services in Jacksboro."
+    },
+    {
+        "name": "Jacksonville",
+        "slug": "jacksonville",
+        "description": "Appliance repair services in Jacksonville."
+    },
+    {
+        "name": "Jasper",
+        "slug": "jasper",
+        "description": "Appliance repair services in Jasper."
+    },
+    {
+        "name": "Jersey Village",
+        "slug": "jersey-village",
+        "description": "Appliance repair services in Jersey Village."
+    },
+    {
+        "name": "Jones Creek",
+        "slug": "jones-creek",
+        "description": "Appliance repair services in Jones Creek."
+    },
+    {
+        "name": "Joshua",
+        "slug": "joshua",
+        "description": "Appliance repair services in Joshua."
+    },
+    {
+        "name": "Jourdanton",
+        "slug": "jourdanton",
+        "description": "Appliance repair services in Jourdanton."
+    },
+    {
+        "name": "Justin",
+        "slug": "justin",
+        "description": "Appliance repair services in Justin."
+    },
+    {
+        "name": "Karnes City",
+        "slug": "karnes-city",
+        "description": "Appliance repair services in Karnes City."
+    },
+    {
+        "name": "Katy",
+        "slug": "katy",
+        "description": "Appliance repair services in Katy."
+    },
+    {
+        "name": "Kaufman",
+        "slug": "kaufman",
+        "description": "Appliance repair services in Kaufman."
+    },
+    {
+        "name": "Keene",
+        "slug": "keene",
+        "description": "Appliance repair services in Keene."
+    },
+    {
+        "name": "Keller",
+        "slug": "keller",
+        "description": "Appliance repair services in Keller."
+    },
+    {
+        "name": "Kenedy",
+        "slug": "kenedy",
+        "description": "Appliance repair services in Kenedy."
+    },
+    {
+        "name": "Kennedale",
+        "slug": "kennedale",
+        "description": "Appliance repair services in Kennedale."
+    },
+    {
+        "name": "Kermit",
+        "slug": "kermit",
+        "description": "Appliance repair services in Kermit."
+    },
+    {
+        "name": "Kerrville",
+        "slug": "kerrville",
+        "description": "Appliance repair services in Kerrville."
+    },
+    {
+        "name": "Kilgore",
+        "slug": "kilgore",
+        "description": "Appliance repair services in Kilgore."
+    },
+    {
+        "name": "Killeen",
+        "slug": "killeen",
+        "description": "Appliance repair services in Killeen."
+    },
+    {
+        "name": "Kingsland",
+        "slug": "kingsland",
+        "description": "Appliance repair services in Kingsland."
+    },
+    {
+        "name": "Kingsville",
+        "slug": "kingsville",
+        "description": "Appliance repair services in Kingsville."
+    },
+    {
+        "name": "Kirby",
+        "slug": "kirby",
+        "description": "Appliance repair services in Kirby."
+    },
+    {
+        "name": "Krum",
+        "slug": "krum",
+        "description": "Appliance repair services in Krum."
+    },
+    {
+        "name": "Kyle",
+        "slug": "kyle",
+        "description": "Appliance repair services in Kyle."
+    },
+    {
+        "name": "La Feria",
+        "slug": "la-feria",
+        "description": "Appliance repair services in La Feria."
+    },
+    {
+        "name": "La Grange",
+        "slug": "la-grange",
+        "description": "Appliance repair services in La Grange."
+    },
+    {
+        "name": "La Homa",
+        "slug": "la-homa",
+        "description": "Appliance repair services in La Homa."
+    },
+    {
+        "name": "La Joya",
+        "slug": "la-joya",
+        "description": "Appliance repair services in La Joya."
+    },
+    {
+        "name": "La Marque",
+        "slug": "la-marque",
+        "description": "Appliance repair services in La Marque."
+    },
+    {
+        "name": "La Paloma",
+        "slug": "la-paloma",
+        "description": "Appliance repair services in La Paloma."
+    },
+    {
+        "name": "La Porte",
+        "slug": "la-porte",
+        "description": "Appliance repair services in La Porte."
+    },
+    {
+        "name": "Lackland AFB",
+        "slug": "lackland-afb",
+        "description": "Appliance repair services in Lackland AFB."
+    },
+    {
+        "name": "Lacy-Lakeview",
+        "slug": "lacy-lakeview",
+        "description": "Appliance repair services in Lacy-Lakeview."
+    },
+    {
+        "name": "Lago Vista",
+        "slug": "lago-vista",
+        "description": "Appliance repair services in Lago Vista."
+    },
+    {
+        "name": "Laguna Heights",
+        "slug": "laguna-heights",
+        "description": "Appliance repair services in Laguna Heights."
+    },
+    {
+        "name": "Laguna Vista",
+        "slug": "laguna-vista",
+        "description": "Appliance repair services in Laguna Vista."
+    },
+    {
+        "name": "Lake Dallas",
+        "slug": "lake-dallas",
+        "description": "Appliance repair services in Lake Dallas."
+    },
+    {
+        "name": "Lake Jackson",
+        "slug": "lake-jackson",
+        "description": "Appliance repair services in Lake Jackson."
+    },
+    {
+        "name": "Lake Worth",
+        "slug": "lake-worth",
+        "description": "Appliance repair services in Lake Worth."
+    },
+    {
+        "name": "Lakehills",
+        "slug": "lakehills",
+        "description": "Appliance repair services in Lakehills."
+    },
+    {
+        "name": "Lakeway",
+        "slug": "lakeway",
+        "description": "Appliance repair services in Lakeway."
+    },
+    {
+        "name": "Lamesa",
+        "slug": "lamesa",
+        "description": "Appliance repair services in Lamesa."
+    },
+    {
+        "name": "Lampasas",
+        "slug": "lampasas",
+        "description": "Appliance repair services in Lampasas."
+    },
+    {
+        "name": "Lancaster",
+        "slug": "lancaster",
+        "description": "Appliance repair services in Lancaster."
+    },
+    {
+        "name": "Lantana",
+        "slug": "lantana",
+        "description": "Appliance repair services in Lantana."
+    },
+    {
+        "name": "Laredo",
+        "slug": "laredo",
+        "description": "Appliance repair services in Laredo."
+    },
+    {
+        "name": "Laureles",
+        "slug": "laureles",
+        "description": "Appliance repair services in Laureles."
+    },
+    {
+        "name": "Lavon",
+        "slug": "lavon",
+        "description": "Appliance repair services in Lavon."
+    },
+    {
+        "name": "League City",
+        "slug": "league-city",
+        "description": "Appliance repair services in League City."
+    },
+    {
+        "name": "Leander",
+        "slug": "leander",
+        "description": "Appliance repair services in Leander."
+    },
+    {
+        "name": "Leon Valley",
+        "slug": "leon-valley",
+        "description": "Appliance repair services in Leon Valley."
+    },
+    {
+        "name": "Levelland",
+        "slug": "levelland",
+        "description": "Appliance repair services in Levelland."
+    },
+    {
+        "name": "Lewisville",
+        "slug": "lewisville",
+        "description": "Appliance repair services in Lewisville."
+    },
+    {
+        "name": "Liberty",
+        "slug": "liberty",
+        "description": "Appliance repair services in Liberty."
+    },
+    {
+        "name": "Lindale",
+        "slug": "lindale",
+        "description": "Appliance repair services in Lindale."
+    },
+    {
+        "name": "Little Elm",
+        "slug": "little-elm",
+        "description": "Appliance repair services in Little Elm."
+    },
+    {
+        "name": "Littlefield",
+        "slug": "littlefield",
+        "description": "Appliance repair services in Littlefield."
+    },
+    {
+        "name": "Live Oak",
+        "slug": "live-oak",
+        "description": "Appliance repair services in Live Oak."
+    },
+    {
+        "name": "Livingston",
+        "slug": "livingston",
+        "description": "Appliance repair services in Livingston."
+    },
+    {
+        "name": "Llano",
+        "slug": "llano",
+        "description": "Appliance repair services in Llano."
+    },
+    {
+        "name": "Lockhart",
+        "slug": "lockhart",
+        "description": "Appliance repair services in Lockhart."
+    },
+    {
+        "name": "Longview",
+        "slug": "longview",
+        "description": "Appliance repair services in Longview."
+    },
+    {
+        "name": "Lopezville",
+        "slug": "lopezville",
+        "description": "Appliance repair services in Lopezville."
+    },
+    {
+        "name": "Los Fresnos",
+        "slug": "los-fresnos",
+        "description": "Appliance repair services in Los Fresnos."
+    },
+    {
+        "name": "Lubbock",
+        "slug": "lubbock",
+        "description": "Appliance repair services in Lubbock."
+    },
+    {
+        "name": "Lucas",
+        "slug": "lucas",
+        "description": "Appliance repair services in Lucas."
+    },
+    {
+        "name": "Lufkin",
+        "slug": "lufkin",
+        "description": "Appliance repair services in Lufkin."
+    },
+    {
+        "name": "Luling",
+        "slug": "luling",
+        "description": "Appliance repair services in Luling."
+    },
+    {
+        "name": "Lumberton",
+        "slug": "lumberton",
+        "description": "Appliance repair services in Lumberton."
+    },
+    {
+        "name": "Lytle",
+        "slug": "lytle",
+        "description": "Appliance repair services in Lytle."
+    },
+    {
+        "name": "Mabank",
+        "slug": "mabank",
+        "description": "Appliance repair services in Mabank."
+    },
+    {
+        "name": "Madisonville",
+        "slug": "madisonville",
+        "description": "Appliance repair services in Madisonville."
+    },
+    {
+        "name": "Magnolia",
+        "slug": "magnolia",
+        "description": "Appliance repair services in Magnolia."
+    },
+    {
+        "name": "Manor",
+        "slug": "manor",
+        "description": "Appliance repair services in Manor."
+    },
+    {
+        "name": "Mansfield",
+        "slug": "mansfield",
+        "description": "Appliance repair services in Mansfield."
+    },
+    {
+        "name": "Manvel",
+        "slug": "manvel",
+        "description": "Appliance repair services in Manvel."
+    },
+    {
+        "name": "Marble Falls",
+        "slug": "marble-falls",
+        "description": "Appliance repair services in Marble Falls."
+    },
+    {
+        "name": "Marlin",
+        "slug": "marlin",
+        "description": "Appliance repair services in Marlin."
+    },
+    {
+        "name": "Marshall",
+        "slug": "marshall",
+        "description": "Appliance repair services in Marshall."
+    },
+    {
+        "name": "Mathis",
+        "slug": "mathis",
+        "description": "Appliance repair services in Mathis."
+    },
+    {
+        "name": "Mauriceville",
+        "slug": "mauriceville",
+        "description": "Appliance repair services in Mauriceville."
+    },
+    {
+        "name": "McGregor",
+        "slug": "mcgregor",
+        "description": "Appliance repair services in McGregor."
+    },
+    {
+        "name": "McKinney",
+        "slug": "mckinney",
+        "description": "Appliance repair services in McKinney."
+    },
+    {
+        "name": "Meadows Place",
+        "slug": "meadows-place",
+        "description": "Appliance repair services in Meadows Place."
+    },
+    {
+        "name": "Medina",
+        "slug": "medina",
+        "description": "Appliance repair services in Medina."
+    },
+    {
+        "name": "Melissa",
+        "slug": "melissa",
+        "description": "Appliance repair services in Melissa."
+    },
+    {
+        "name": "Mercedes",
+        "slug": "mercedes",
+        "description": "Appliance repair services in Mercedes."
+    },
+    {
+        "name": "Mesquite",
+        "slug": "mesquite",
+        "description": "Appliance repair services in Mesquite."
+    },
+    {
+        "name": "Mexia",
+        "slug": "mexia",
+        "description": "Appliance repair services in Mexia."
+    },
+    {
+        "name": "Midland",
+        "slug": "midland",
+        "description": "Appliance repair services in Midland."
+    },
+    {
+        "name": "Midlothian",
+        "slug": "midlothian",
+        "description": "Appliance repair services in Midlothian."
+    },
+    {
+        "name": "Midway North",
+        "slug": "midway-north",
+        "description": "Appliance repair services in Midway North."
+    },
+    {
+        "name": "Mila Doce",
+        "slug": "mila-doce",
+        "description": "Appliance repair services in Mila Doce."
+    },
+    {
+        "name": "Mineola",
+        "slug": "mineola",
+        "description": "Appliance repair services in Mineola."
+    },
+    {
+        "name": "Mineral Wells",
+        "slug": "mineral-wells",
+        "description": "Appliance repair services in Mineral Wells."
+    },
+    {
+        "name": "Mission",
+        "slug": "mission",
+        "description": "Appliance repair services in Mission."
+    },
+    {
+        "name": "Mission Bend",
+        "slug": "mission-bend",
+        "description": "Appliance repair services in Mission Bend."
+    },
+    {
+        "name": "Missouri City",
+        "slug": "missouri-city",
+        "description": "Appliance repair services in Missouri City."
+    },
+    {
+        "name": "Monahans",
+        "slug": "monahans",
+        "description": "Appliance repair services in Monahans."
+    },
+    {
+        "name": "Mont Belvieu",
+        "slug": "mont-belvieu",
+        "description": "Appliance repair services in Mont Belvieu."
+    },
+    {
+        "name": "Morgan's Point Resort",
+        "slug": "morgan-s-point-resort",
+        "description": "Appliance repair services in Morgan's Point Resort."
+    },
+    {
+        "name": "Mount Pleasant",
+        "slug": "mount-pleasant",
+        "description": "Appliance repair services in Mount Pleasant."
+    },
+    {
+        "name": "Muleshoe",
+        "slug": "muleshoe",
+        "description": "Appliance repair services in Muleshoe."
+    },
+    {
+        "name": "Murillo",
+        "slug": "murillo",
+        "description": "Appliance repair services in Murillo."
+    },
+    {
+        "name": "Murphy",
+        "slug": "murphy",
+        "description": "Appliance repair services in Murphy."
+    },
+    {
+        "name": "Nacogdoches",
+        "slug": "nacogdoches",
+        "description": "Appliance repair services in Nacogdoches."
+    },
+    {
+        "name": "Nash",
+        "slug": "nash",
+        "description": "Appliance repair services in Nash."
+    },
+    {
+        "name": "Nassau Bay",
+        "slug": "nassau-bay",
+        "description": "Appliance repair services in Nassau Bay."
+    },
+    {
+        "name": "Navasota",
+        "slug": "navasota",
+        "description": "Appliance repair services in Navasota."
+    },
+    {
+        "name": "Nederland",
+        "slug": "nederland",
+        "description": "Appliance repair services in Nederland."
+    },
+    {
+        "name": "Needville",
+        "slug": "needville",
+        "description": "Appliance repair services in Needville."
+    },
+    {
+        "name": "New Boston",
+        "slug": "new-boston",
+        "description": "Appliance repair services in New Boston."
+    },
+    {
+        "name": "New Braunfels",
+        "slug": "new-braunfels",
+        "description": "Appliance repair services in New Braunfels."
+    },
+    {
+        "name": "Nolanville",
+        "slug": "nolanville",
+        "description": "Appliance repair services in Nolanville."
+    },
+    {
+        "name": "North Alamo",
+        "slug": "north-alamo",
+        "description": "Appliance repair services in North Alamo."
+    },
+    {
+        "name": "North Richland Hills",
+        "slug": "north-richland-hills",
+        "description": "Appliance repair services in North Richland Hills."
+    },
+    {
+        "name": "Oak Point",
+        "slug": "oak-point",
+        "description": "Appliance repair services in Oak Point."
+    },
+    {
+        "name": "Oak Ridge North",
+        "slug": "oak-ridge-north",
+        "description": "Appliance repair services in Oak Ridge North."
+    },
+    {
+        "name": "Oak Trail Shores",
+        "slug": "oak-trail-shores",
+        "description": "Appliance repair services in Oak Trail Shores."
+    },
+    {
+        "name": "Odessa",
+        "slug": "odessa",
+        "description": "Appliance repair services in Odessa."
+    },
+    {
+        "name": "Old River-Winfree",
+        "slug": "old-river-winfree",
+        "description": "Appliance repair services in Old River-Winfree."
+    },
+    {
+        "name": "Olivarez",
+        "slug": "olivarez",
+        "description": "Appliance repair services in Olivarez."
+    },
+    {
+        "name": "Olney",
+        "slug": "olney",
+        "description": "Appliance repair services in Olney."
+    },
+    {
+        "name": "Onalaska",
+        "slug": "onalaska",
+        "description": "Appliance repair services in Onalaska."
+    },
+    {
+        "name": "Orange",
+        "slug": "orange",
+        "description": "Appliance repair services in Orange."
+    },
+    {
+        "name": "Ovilla",
+        "slug": "ovilla",
+        "description": "Appliance repair services in Ovilla."
+    },
+    {
+        "name": "Ozona",
+        "slug": "ozona",
+        "description": "Appliance repair services in Ozona."
+    },
+    {
+        "name": "Palacios",
+        "slug": "palacios",
+        "description": "Appliance repair services in Palacios."
+    },
+    {
+        "name": "Palestine",
+        "slug": "palestine",
+        "description": "Appliance repair services in Palestine."
+    },
+    {
+        "name": "Palmview",
+        "slug": "palmview",
+        "description": "Appliance repair services in Palmview."
+    },
+    {
+        "name": "Palmview South",
+        "slug": "palmview-south",
+        "description": "Appliance repair services in Palmview South."
+    },
+    {
+        "name": "Paloma Creek",
+        "slug": "paloma-creek",
+        "description": "Appliance repair services in Paloma Creek."
+    },
+    {
+        "name": "Paloma Creek South",
+        "slug": "paloma-creek-south",
+        "description": "Appliance repair services in Paloma Creek South."
+    },
+    {
+        "name": "Pampa",
+        "slug": "pampa",
+        "description": "Appliance repair services in Pampa."
+    },
+    {
+        "name": "Paris",
+        "slug": "paris",
+        "description": "Appliance repair services in Paris."
+    },
+    {
+        "name": "Parker",
+        "slug": "parker",
+        "description": "Appliance repair services in Parker."
+    },
+    {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "description": "Appliance repair services in Pasadena."
+    },
+    {
+        "name": "Pearland",
+        "slug": "pearland",
+        "description": "Appliance repair services in Pearland."
+    },
+    {
+        "name": "Pearsall",
+        "slug": "pearsall",
+        "description": "Appliance repair services in Pearsall."
+    },
+    {
+        "name": "Pecan Acres",
+        "slug": "pecan-acres",
+        "description": "Appliance repair services in Pecan Acres."
+    },
+    {
+        "name": "Pecan Grove",
+        "slug": "pecan-grove",
+        "description": "Appliance repair services in Pecan Grove."
+    },
+    {
+        "name": "Pecan Plantation",
+        "slug": "pecan-plantation",
+        "description": "Appliance repair services in Pecan Plantation."
+    },
+    {
+        "name": "Pecos",
+        "slug": "pecos",
+        "description": "Appliance repair services in Pecos."
+    },
+    {
+        "name": "Penitas",
+        "slug": "penitas",
+        "description": "Appliance repair services in Penitas."
+    },
+    {
+        "name": "Perezville",
+        "slug": "perezville",
+        "description": "Appliance repair services in Perezville."
+    },
+    {
+        "name": "Perryton",
+        "slug": "perryton",
+        "description": "Appliance repair services in Perryton."
+    },
+    {
+        "name": "Pflugerville",
+        "slug": "pflugerville",
+        "description": "Appliance repair services in Pflugerville."
+    },
+    {
+        "name": "Pharr",
+        "slug": "pharr",
+        "description": "Appliance repair services in Pharr."
+    },
+    {
+        "name": "Pilot Point",
+        "slug": "pilot-point",
+        "description": "Appliance repair services in Pilot Point."
+    },
+    {
+        "name": "Piney Point Village",
+        "slug": "piney-point-village",
+        "description": "Appliance repair services in Piney Point Village."
+    },
+    {
+        "name": "Pittsburg",
+        "slug": "pittsburg",
+        "description": "Appliance repair services in Pittsburg."
+    },
+    {
+        "name": "Plainview",
+        "slug": "plainview",
+        "description": "Appliance repair services in Plainview."
+    },
+    {
+        "name": "Plano",
+        "slug": "plano",
+        "description": "Appliance repair services in Plano."
+    },
+    {
+        "name": "Pleasanton",
+        "slug": "pleasanton",
+        "description": "Appliance repair services in Pleasanton."
+    },
+    {
+        "name": "Port Aransas",
+        "slug": "port-aransas",
+        "description": "Appliance repair services in Port Aransas."
+    },
+    {
+        "name": "Port Arthur",
+        "slug": "port-arthur",
+        "description": "Appliance repair services in Port Arthur."
+    },
+    {
+        "name": "Port Isabel",
+        "slug": "port-isabel",
+        "description": "Appliance repair services in Port Isabel."
+    },
+    {
+        "name": "Port Lavaca",
+        "slug": "port-lavaca",
+        "description": "Appliance repair services in Port Lavaca."
+    },
+    {
+        "name": "Port Neches",
+        "slug": "port-neches",
+        "description": "Appliance repair services in Port Neches."
+    },
+    {
+        "name": "Portland",
+        "slug": "portland",
+        "description": "Appliance repair services in Portland."
+    },
+    {
+        "name": "Post",
+        "slug": "post",
+        "description": "Appliance repair services in Post."
+    },
+    {
+        "name": "Poteet",
+        "slug": "poteet",
+        "description": "Appliance repair services in Poteet."
+    },
+    {
+        "name": "Potosi",
+        "slug": "potosi",
+        "description": "Appliance repair services in Potosi."
+    },
+    {
+        "name": "Prairie View",
+        "slug": "prairie-view",
+        "description": "Appliance repair services in Prairie View."
+    },
+    {
+        "name": "Presidio",
+        "slug": "presidio",
+        "description": "Appliance repair services in Presidio."
+    },
+    {
+        "name": "Primera",
+        "slug": "primera",
+        "description": "Appliance repair services in Primera."
+    },
+    {
+        "name": "Princeton",
+        "slug": "princeton",
+        "description": "Appliance repair services in Princeton."
+    },
+    {
+        "name": "Progreso",
+        "slug": "progreso",
+        "description": "Appliance repair services in Progreso."
+    },
+    {
+        "name": "Prosper",
+        "slug": "prosper",
+        "description": "Appliance repair services in Prosper."
+    },
+    {
+        "name": "Providence Village",
+        "slug": "providence-village",
+        "description": "Appliance repair services in Providence Village."
+    },
+    {
+        "name": "Raymondville",
+        "slug": "raymondville",
+        "description": "Appliance repair services in Raymondville."
+    },
+    {
+        "name": "Red Oak",
+        "slug": "red-oak",
+        "description": "Appliance repair services in Red Oak."
+    },
+    {
+        "name": "Redwood",
+        "slug": "redwood",
+        "description": "Appliance repair services in Redwood."
+    },
+    {
+        "name": "Rendon",
+        "slug": "rendon",
+        "description": "Appliance repair services in Rendon."
+    },
+    {
+        "name": "Reno",
+        "slug": "reno",
+        "description": "Appliance repair services in Reno."
+    },
+    {
+        "name": "Rhome",
+        "slug": "rhome",
+        "description": "Appliance repair services in Rhome."
+    },
+    {
+        "name": "Richardson",
+        "slug": "richardson",
+        "description": "Appliance repair services in Richardson."
+    },
+    {
+        "name": "Richland Hills",
+        "slug": "richland-hills",
+        "description": "Appliance repair services in Richland Hills."
+    },
+    {
+        "name": "Richmond",
+        "slug": "richmond",
+        "description": "Appliance repair services in Richmond."
+    },
+    {
+        "name": "Richwood",
+        "slug": "richwood",
+        "description": "Appliance repair services in Richwood."
+    },
+    {
+        "name": "Rio Bravo",
+        "slug": "rio-bravo",
+        "description": "Appliance repair services in Rio Bravo."
+    },
+    {
+        "name": "Rio Grande City",
+        "slug": "rio-grande-city",
+        "description": "Appliance repair services in Rio Grande City."
+    },
+    {
+        "name": "Rio Hondo",
+        "slug": "rio-hondo",
+        "description": "Appliance repair services in Rio Hondo."
+    },
+    {
+        "name": "River Oaks",
+        "slug": "river-oaks",
+        "description": "Appliance repair services in River Oaks."
+    },
+    {
+        "name": "Roanoke",
+        "slug": "roanoke",
+        "description": "Appliance repair services in Roanoke."
+    },
+    {
+        "name": "Robinson",
+        "slug": "robinson",
+        "description": "Appliance repair services in Robinson."
+    },
+    {
+        "name": "Robstown",
+        "slug": "robstown",
+        "description": "Appliance repair services in Robstown."
+    },
+    {
+        "name": "Rockdale",
+        "slug": "rockdale",
+        "description": "Appliance repair services in Rockdale."
+    },
+    {
+        "name": "Rockport",
+        "slug": "rockport",
+        "description": "Appliance repair services in Rockport."
+    },
+    {
+        "name": "Rockwall",
+        "slug": "rockwall",
+        "description": "Appliance repair services in Rockwall."
+    },
+    {
+        "name": "Roma",
+        "slug": "roma",
+        "description": "Appliance repair services in Roma."
+    },
+    {
+        "name": "Rosenberg",
+        "slug": "rosenberg",
+        "description": "Appliance repair services in Rosenberg."
+    },
+    {
+        "name": "Round Rock",
+        "slug": "round-rock",
+        "description": "Appliance repair services in Round Rock."
+    },
+    {
+        "name": "Rowlett",
+        "slug": "rowlett",
+        "description": "Appliance repair services in Rowlett."
+    },
+    {
+        "name": "Royse City",
+        "slug": "royse-city",
+        "description": "Appliance repair services in Royse City."
+    },
+    {
+        "name": "Rusk",
+        "slug": "rusk",
+        "description": "Appliance repair services in Rusk."
+    },
+    {
+        "name": "Sachse",
+        "slug": "sachse",
+        "description": "Appliance repair services in Sachse."
+    },
+    {
+        "name": "Saginaw",
+        "slug": "saginaw",
+        "description": "Appliance repair services in Saginaw."
+    },
+    {
+        "name": "San Angelo",
+        "slug": "san-angelo",
+        "description": "Appliance repair services in San Angelo."
+    },
+    {
+        "name": "San Benito",
+        "slug": "san-benito",
+        "description": "Appliance repair services in San Benito."
+    },
+    {
+        "name": "San Carlos",
+        "slug": "san-carlos",
+        "description": "Appliance repair services in San Carlos."
+    },
+    {
+        "name": "San Diego",
+        "slug": "san-diego",
+        "description": "Appliance repair services in San Diego."
+    },
+    {
+        "name": "San Elizario",
+        "slug": "san-elizario",
+        "description": "Appliance repair services in San Elizario."
+    },
+    {
+        "name": "San Juan",
+        "slug": "san-juan",
+        "description": "Appliance repair services in San Juan."
+    },
+    {
+        "name": "San Leon",
+        "slug": "san-leon",
+        "description": "Appliance repair services in San Leon."
+    },
+    {
+        "name": "San Marcos",
+        "slug": "san-marcos",
+        "description": "Appliance repair services in San Marcos."
+    },
+    {
+        "name": "San Saba",
+        "slug": "san-saba",
+        "description": "Appliance repair services in San Saba."
+    },
+    {
+        "name": "Sandy Oaks",
+        "slug": "sandy-oaks",
+        "description": "Appliance repair services in Sandy Oaks."
+    },
+    {
+        "name": "Sanger",
+        "slug": "sanger",
+        "description": "Appliance repair services in Sanger."
+    },
+    {
+        "name": "Sansom Park",
+        "slug": "sansom-park",
+        "description": "Appliance repair services in Sansom Park."
+    },
+    {
+        "name": "Santa Fe",
+        "slug": "santa-fe",
+        "description": "Appliance repair services in Santa Fe."
+    },
+    {
+        "name": "Savannah",
+        "slug": "savannah",
+        "description": "Appliance repair services in Savannah."
+    },
+    {
+        "name": "Scenic Oaks",
+        "slug": "scenic-oaks",
+        "description": "Appliance repair services in Scenic Oaks."
+    },
+    {
+        "name": "Schertz",
+        "slug": "schertz",
+        "description": "Appliance repair services in Schertz."
+    },
+    {
+        "name": "Scissors",
+        "slug": "scissors",
+        "description": "Appliance repair services in Scissors."
+    },
+    {
+        "name": "Seabrook",
+        "slug": "seabrook",
+        "description": "Appliance repair services in Seabrook."
+    },
+    {
+        "name": "Seagoville",
+        "slug": "seagoville",
+        "description": "Appliance repair services in Seagoville."
+    },
+    {
+        "name": "Sealy",
+        "slug": "sealy",
+        "description": "Appliance repair services in Sealy."
+    },
+    {
+        "name": "Seguin",
+        "slug": "seguin",
+        "description": "Appliance repair services in Seguin."
+    },
+    {
+        "name": "Selma",
+        "slug": "selma",
+        "description": "Appliance repair services in Selma."
+    },
+    {
+        "name": "Seminole",
+        "slug": "seminole",
+        "description": "Appliance repair services in Seminole."
+    },
+    {
+        "name": "Shady Hollow",
+        "slug": "shady-hollow",
+        "description": "Appliance repair services in Shady Hollow."
+    },
+    {
+        "name": "Shallowater",
+        "slug": "shallowater",
+        "description": "Appliance repair services in Shallowater."
+    },
+    {
+        "name": "Shavano Park",
+        "slug": "shavano-park",
+        "description": "Appliance repair services in Shavano Park."
+    },
+    {
+        "name": "Sherman",
+        "slug": "sherman",
+        "description": "Appliance repair services in Sherman."
+    },
+    {
+        "name": "Sienna Plantation",
+        "slug": "sienna-plantation",
+        "description": "Appliance repair services in Sienna Plantation."
+    },
+    {
+        "name": "Silsbee",
+        "slug": "silsbee",
+        "description": "Appliance repair services in Silsbee."
+    },
+    {
+        "name": "Sinton",
+        "slug": "sinton",
+        "description": "Appliance repair services in Sinton."
+    },
+    {
+        "name": "Slaton",
+        "slug": "slaton",
+        "description": "Appliance repair services in Slaton."
+    },
+    {
+        "name": "Smithville",
+        "slug": "smithville",
+        "description": "Appliance repair services in Smithville."
+    },
+    {
+        "name": "Snyder",
+        "slug": "snyder",
+        "description": "Appliance repair services in Snyder."
+    },
+    {
+        "name": "Socorro",
+        "slug": "socorro",
+        "description": "Appliance repair services in Socorro."
+    },
+    {
+        "name": "Sonora",
+        "slug": "sonora",
+        "description": "Appliance repair services in Sonora."
+    },
+    {
+        "name": "South Alamo",
+        "slug": "south-alamo",
+        "description": "Appliance repair services in South Alamo."
+    },
+    {
+        "name": "South Houston",
+        "slug": "south-houston",
+        "description": "Appliance repair services in South Houston."
+    },
+    {
+        "name": "Southlake",
+        "slug": "southlake",
+        "description": "Appliance repair services in Southlake."
+    },
+    {
+        "name": "Sparks",
+        "slug": "sparks",
+        "description": "Appliance repair services in Sparks."
+    },
+    {
+        "name": "Spearman",
+        "slug": "spearman",
+        "description": "Appliance repair services in Spearman."
+    },
+    {
+        "name": "Spring",
+        "slug": "spring",
+        "description": "Appliance repair services in Spring."
+    },
+    {
+        "name": "Spring Valley Village",
+        "slug": "spring-valley-village",
+        "description": "Appliance repair services in Spring Valley Village."
+    },
+    {
+        "name": "Stafford",
+        "slug": "stafford",
+        "description": "Appliance repair services in Stafford."
+    },
+    {
+        "name": "Stephenville",
+        "slug": "stephenville",
+        "description": "Appliance repair services in Stephenville."
+    },
+    {
+        "name": "Sugar Land",
+        "slug": "sugar-land",
+        "description": "Appliance repair services in Sugar Land."
+    },
+    {
+        "name": "Sullivan City",
+        "slug": "sullivan-city",
+        "description": "Appliance repair services in Sullivan City."
+    },
+    {
+        "name": "Sulphur Springs",
+        "slug": "sulphur-springs",
+        "description": "Appliance repair services in Sulphur Springs."
+    },
+    {
+        "name": "Sunnyvale",
+        "slug": "sunnyvale",
+        "description": "Appliance repair services in Sunnyvale."
+    },
+    {
+        "name": "Sweeny",
+        "slug": "sweeny",
+        "description": "Appliance repair services in Sweeny."
+    },
+    {
+        "name": "Sweetwater",
+        "slug": "sweetwater",
+        "description": "Appliance repair services in Sweetwater."
+    },
+    {
+        "name": "Taft",
+        "slug": "taft",
+        "description": "Appliance repair services in Taft."
+    },
+    {
+        "name": "Taylor",
+        "slug": "taylor",
+        "description": "Appliance repair services in Taylor."
+    },
+    {
+        "name": "Taylor Lake Village",
+        "slug": "taylor-lake-village",
+        "description": "Appliance repair services in Taylor Lake Village."
+    },
+    {
+        "name": "Teague",
+        "slug": "teague",
+        "description": "Appliance repair services in Teague."
+    },
+    {
+        "name": "Temple",
+        "slug": "temple",
+        "description": "Appliance repair services in Temple."
+    },
+    {
+        "name": "Terrell",
+        "slug": "terrell",
+        "description": "Appliance repair services in Terrell."
+    },
+    {
+        "name": "Terrell Hills",
+        "slug": "terrell-hills",
+        "description": "Appliance repair services in Terrell Hills."
+    },
+    {
+        "name": "Texarkana",
+        "slug": "texarkana",
+        "description": "Appliance repair services in Texarkana."
+    },
+    {
+        "name": "Texas City",
+        "slug": "texas-city",
+        "description": "Appliance repair services in Texas City."
+    },
+    {
+        "name": "The Colony",
+        "slug": "the-colony",
+        "description": "Appliance repair services in The Colony."
+    },
+    {
+        "name": "The Woodlands",
+        "slug": "the-woodlands",
+        "description": "Appliance repair services in The Woodlands."
+    },
+    {
+        "name": "Timberwood Park",
+        "slug": "timberwood-park",
+        "description": "Appliance repair services in Timberwood Park."
+    },
+    {
+        "name": "Tomball",
+        "slug": "tomball",
+        "description": "Appliance repair services in Tomball."
+    },
+    {
+        "name": "Travis Ranch",
+        "slug": "travis-ranch",
+        "description": "Appliance repair services in Travis Ranch."
+    },
+    {
+        "name": "Trinity",
+        "slug": "trinity",
+        "description": "Appliance repair services in Trinity."
+    },
+    {
+        "name": "Trophy Club",
+        "slug": "trophy-club",
+        "description": "Appliance repair services in Trophy Club."
+    },
+    {
+        "name": "Tulia",
+        "slug": "tulia",
+        "description": "Appliance repair services in Tulia."
+    },
+    {
+        "name": "Tyler",
+        "slug": "tyler",
+        "description": "Appliance repair services in Tyler."
+    },
+    {
+        "name": "Universal City",
+        "slug": "universal-city",
+        "description": "Appliance repair services in Universal City."
+    },
+    {
+        "name": "University Park",
+        "slug": "university-park",
+        "description": "Appliance repair services in University Park."
+    },
+    {
+        "name": "Uvalde",
+        "slug": "uvalde",
+        "description": "Appliance repair services in Uvalde."
+    },
+    {
+        "name": "Van Alstyne",
+        "slug": "van-alstyne",
+        "description": "Appliance repair services in Van Alstyne."
+    },
+    {
+        "name": "Venus",
+        "slug": "venus",
+        "description": "Appliance repair services in Venus."
+    },
+    {
+        "name": "Vernon",
+        "slug": "vernon",
+        "description": "Appliance repair services in Vernon."
+    },
+    {
+        "name": "Victoria",
+        "slug": "victoria",
+        "description": "Appliance repair services in Victoria."
+    },
+    {
+        "name": "Vidor",
+        "slug": "vidor",
+        "description": "Appliance repair services in Vidor."
+    },
+    {
+        "name": "Waco",
+        "slug": "waco",
+        "description": "Appliance repair services in Waco."
+    },
+    {
+        "name": "Wake Village",
+        "slug": "wake-village",
+        "description": "Appliance repair services in Wake Village."
+    },
+    {
+        "name": "Waller",
+        "slug": "waller",
+        "description": "Appliance repair services in Waller."
+    },
+    {
+        "name": "Watauga",
+        "slug": "watauga",
+        "description": "Appliance repair services in Watauga."
+    },
+    {
+        "name": "Waxahachie",
+        "slug": "waxahachie",
+        "description": "Appliance repair services in Waxahachie."
+    },
+    {
+        "name": "Weatherford",
+        "slug": "weatherford",
+        "description": "Appliance repair services in Weatherford."
+    },
+    {
+        "name": "Webster",
+        "slug": "webster",
+        "description": "Appliance repair services in Webster."
+    },
+    {
+        "name": "Wells Branch",
+        "slug": "wells-branch",
+        "description": "Appliance repair services in Wells Branch."
+    },
+    {
+        "name": "Weslaco",
+        "slug": "weslaco",
+        "description": "Appliance repair services in Weslaco."
+    },
+    {
+        "name": "West Columbia",
+        "slug": "west-columbia",
+        "description": "Appliance repair services in West Columbia."
+    },
+    {
+        "name": "West Lake Hills",
+        "slug": "west-lake-hills",
+        "description": "Appliance repair services in West Lake Hills."
+    },
+    {
+        "name": "West Livingston",
+        "slug": "west-livingston",
+        "description": "Appliance repair services in West Livingston."
+    },
+    {
+        "name": "West Odessa",
+        "slug": "west-odessa",
+        "description": "Appliance repair services in West Odessa."
+    },
+    {
+        "name": "West Orange",
+        "slug": "west-orange",
+        "description": "Appliance repair services in West Orange."
+    },
+    {
+        "name": "West Tawakoni",
+        "slug": "west-tawakoni",
+        "description": "Appliance repair services in West Tawakoni."
+    },
+    {
+        "name": "West University Place",
+        "slug": "west-university-place",
+        "description": "Appliance repair services in West University Place."
+    },
+    {
+        "name": "Weston Lakes",
+        "slug": "weston-lakes",
+        "description": "Appliance repair services in Weston Lakes."
+    },
+    {
+        "name": "Westway",
+        "slug": "westway",
+        "description": "Appliance repair services in Westway."
+    },
+    {
+        "name": "Wharton",
+        "slug": "wharton",
+        "description": "Appliance repair services in Wharton."
+    },
+    {
+        "name": "White Oak",
+        "slug": "white-oak",
+        "description": "Appliance repair services in White Oak."
+    },
+    {
+        "name": "White Settlement",
+        "slug": "white-settlement",
+        "description": "Appliance repair services in White Settlement."
+    },
+    {
+        "name": "Whitehouse",
+        "slug": "whitehouse",
+        "description": "Appliance repair services in Whitehouse."
+    },
+    {
+        "name": "Whitesboro",
+        "slug": "whitesboro",
+        "description": "Appliance repair services in Whitesboro."
+    },
+    {
+        "name": "Wichita Falls",
+        "slug": "wichita-falls",
+        "description": "Appliance repair services in Wichita Falls."
+    },
+    {
+        "name": "Willis",
+        "slug": "willis",
+        "description": "Appliance repair services in Willis."
+    },
+    {
+        "name": "Willow Park",
+        "slug": "willow-park",
+        "description": "Appliance repair services in Willow Park."
+    },
+    {
+        "name": "Wills Point",
+        "slug": "wills-point",
+        "description": "Appliance repair services in Wills Point."
+    },
+    {
+        "name": "Wilmer",
+        "slug": "wilmer",
+        "description": "Appliance repair services in Wilmer."
+    },
+    {
+        "name": "Wimberley",
+        "slug": "wimberley",
+        "description": "Appliance repair services in Wimberley."
+    },
+    {
+        "name": "Windcrest",
+        "slug": "windcrest",
+        "description": "Appliance repair services in Windcrest."
+    },
+    {
+        "name": "Winnie",
+        "slug": "winnie",
+        "description": "Appliance repair services in Winnie."
+    },
+    {
+        "name": "Winnsboro",
+        "slug": "winnsboro",
+        "description": "Appliance repair services in Winnsboro."
+    },
+    {
+        "name": "Wolfforth",
+        "slug": "wolfforth",
+        "description": "Appliance repair services in Wolfforth."
+    },
+    {
+        "name": "Woodcreek",
+        "slug": "woodcreek",
+        "description": "Appliance repair services in Woodcreek."
+    },
+    {
+        "name": "Woodville",
+        "slug": "woodville",
+        "description": "Appliance repair services in Woodville."
+    },
+    {
+        "name": "Woodway",
+        "slug": "woodway",
+        "description": "Appliance repair services in Woodway."
+    },
+    {
+        "name": "Wyldwood",
+        "slug": "wyldwood",
+        "description": "Appliance repair services in Wyldwood."
+    },
+    {
+        "name": "Wylie",
+        "slug": "wylie",
+        "description": "Appliance repair services in Wylie."
+    },
+    {
+        "name": "Yoakum",
+        "slug": "yoakum",
+        "description": "Appliance repair services in Yoakum."
+    },
+    {
+        "name": "Zapata",
+        "slug": "zapata",
+        "description": "Appliance repair services in Zapata."
+    }
+]

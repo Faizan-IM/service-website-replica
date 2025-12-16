@@ -26,8 +26,8 @@ export type State = {
 
 // Function to read the data
 export function getLocations(): State[] {
-    // We look for locations.json inside src/app
-    const filePath = path.join(process.cwd(), 'src', 'app', 'locations.json');
+    // We look for locations.json inside src/app/data
+    const filePath = path.join(process.cwd(), 'src', 'data', 'locations.json');
     const fileContents = fs.readFileSync(filePath, 'utf8');
     return JSON.parse(fileContents);
 }

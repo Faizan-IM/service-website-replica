@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Alabama",
+        "slug": "al",
+        "abbr": "AL"
+    },
+    {
+        "name": "Alaska",
+        "slug": "ak",
+        "abbr": "AK"
+    },
+    {
+        "name": "Arizona",
+        "slug": "az",
+        "abbr": "AZ"
+    },
+    {
+        "name": "Arkansas",
+        "slug": "ar",
+        "abbr": "AR"
+    },
+    {
+        "name": "California",
+        "slug": "ca",
+        "abbr": "CA"
+    },
+    {
+        "name": "Colorado",
+        "slug": "co",
+        "abbr": "CO"
+    },
+    {
+        "name": "Connecticut",
+        "slug": "ct",
+        "abbr": "CT"
+    },
+    {
+        "name": "Delaware",
+        "slug": "de",
+        "abbr": "DE"
+    },
+    {
+        "name": "Florida",
+        "slug": "fl",
+        "abbr": "FL"
+    },
+    {
+        "name": "Georgia",
+        "slug": "ga",
+        "abbr": "GA"
+    },
+    {
+        "name": "Hawaii",
+        "slug": "hi",
+        "abbr": "HI"
+    },
+    {
+        "name": "Idaho",
+        "slug": "id",
+        "abbr": "ID"
+    },
+    {
+        "name": "Illinois",
+        "slug": "il",
+        "abbr": "IL"
+    },
+    {
+        "name": "Indiana",
+        "slug": "in",
+        "abbr": "IN"
+    },
+    {
+        "name": "Iowa",
+        "slug": "ia",
+        "abbr": "IA"
+    },
+    {
+        "name": "Kansas",
+        "slug": "ks",
+        "abbr": "KS"
+    },
+    {
+        "name": "Kentucky",
+        "slug": "ky",
+        "abbr": "KY"
+    },
+    {
+        "name": "Louisiana",
+        "slug": "la",
+        "abbr": "LA"
+    },
+    {
+        "name": "Maine",
+        "slug": "me",
+        "abbr": "ME"
+    },
+    {
+        "name": "Maryland",
+        "slug": "md",
+        "abbr": "MD"
+    },
+    {
+        "name": "Massachusetts",
+        "slug": "ma",
+        "abbr": "MA"
+    },
+    {
+        "name": "Michigan",
+        "slug": "mi",
+        "abbr": "MI"
+    },
+    {
+        "name": "Minnesota",
+        "slug": "mn",
+        "abbr": "MN"
+    },
+    {
+        "name": "Mississippi",
+        "slug": "ms",
+        "abbr": "MS"
+    },
+    {
+        "name": "Missouri",
+        "slug": "mo",
+        "abbr": "MO"
+    },
+    {
+        "name": "Montana",
+        "slug": "mt",
+        "abbr": "MT"
+    },
+    {
+        "name": "Nebraska",
+        "slug": "ne",
+        "abbr": "NE"
+    },
+    {
+        "name": "Nevada",
+        "slug": "nv",
+        "abbr": "NV"
+    },
+    {
+        "name": "New Hampshire",
+        "slug": "nh",
+        "abbr": "NH"
+    },
+    {
+        "name": "New Jersey",
+        "slug": "nj",
+        "abbr": "NJ"
+    },
+    {
+        "name": "New Mexico",
+        "slug": "nm",
+        "abbr": "NM"
+    },
+    {
+        "name": "New York",
+        "slug": "ny",
+        "abbr": "NY"
+    },
+    {
+        "name": "North Carolina",
+        "slug": "nc",
+        "abbr": "NC"
+    },
+    {
+        "name": "North Dakota",
+        "slug": "nd",
+        "abbr": "ND"
+    },
+    {
+        "name": "Ohio",
+        "slug": "oh",
+        "abbr": "OH"
+    },
+    {
+        "name": "Oklahoma",
+        "slug": "ok",
+        "abbr": "OK"
+    },
+    {
+        "name": "Oregon",
+        "slug": "or",
+        "abbr": "OR"
+    },
+    {
+        "name": "Pennsylvania",
+        "slug": "pa",
+        "abbr": "PA"
+    },
+    {
+        "name": "Puerto Rico",
+        "slug": "pr",
+        "abbr": "PR"
+    },
+    {
+        "name": "Rhode Island",
+        "slug": "ri",
+        "abbr": "RI"
+    },
+    {
+        "name": "South Carolina",
+        "slug": "sc",
+        "abbr": "SC"
+    },
+    {
+        "name": "South Dakota",
+        "slug": "sd",
+        "abbr": "SD"
+    },
+    {
+        "name": "Tennessee",
+        "slug": "tn",
+        "abbr": "TN"
+    },
+    {
+        "name": "Texas",
+        "slug": "tx",
+        "abbr": "TX"
+    },
+    {
+        "name": "Utah",
+        "slug": "ut",
+        "abbr": "UT"
+    },
+    {
+        "name": "Vermont",
+        "slug": "vt",
+        "abbr": "VT"
+    },
+    {
+        "name": "Virginia",
+        "slug": "va",
+        "abbr": "VA"
+    },
+    {
+        "name": "Washington",
+        "slug": "wa",
+        "abbr": "WA"
+    },
+    {
+        "name": "West Virginia",
+        "slug": "wv",
+        "abbr": "WV"
+    },
+    {
+        "name": "Wisconsin",
+        "slug": "wi",
+        "abbr": "WI"
+    },
+    {
+        "name": "Wyoming",
+        "slug": "wy",
+        "abbr": "WY"
+    }
+]

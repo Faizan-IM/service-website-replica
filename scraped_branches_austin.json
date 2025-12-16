@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Sears Appliance Repair",
+        "slug": "2901-s-capitol-of-texas-highway",
+        "address": "AustinSears Appliance Repair209 customer reviews+1-512-337-45222901 S Capitol of Texas Highway,  Austin, Texas  78746",
+        "phone": "(555) 123-4567",
+        "zip_code": "00000"
+    },
+    {
+        "name": "Sears Appliance Repair",
+        "slug": "12625-n-i-h-35",
+        "address": "AustinSears Appliance Repair85 customer reviews+1-512-595-727812625 N I-H 35,  Austin, Texas  78753",
+        "phone": "(555) 123-4567",
+        "zip_code": "00000"
+    },
+    {
+        "name": "Sears Appliance Repair",
+        "slug": "1000-e-41st",
+        "address": "AustinSears Appliance Repair57 customer reviews+1-512-213-68591000 E 41st,  Austin, Texas  78751",
+        "phone": "(555) 123-4567",
+        "zip_code": "00000"
+    }
+]
