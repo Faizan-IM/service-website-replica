@@ -1,72 +1,14 @@
-/* @import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-} */
-
-
 @import "tailwindcss";
 
-@theme {
-  /* YOUR CUSTOM FONTS */
-  --font-sans: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+/* That's it! 
+   In v4, you don't need @tailwind base/components/utilities.
+   The single import handles everything.
+*/
 
-  /* YOUR CUSTOM COLORS */
-  --color-brand-red: #DC143C;
-  /* Crimson Red */
-  --color-brand-dark: #36454F;
-  /* Charcoal */
-  --color-brand-bg: #F9FAFB;
-  /* Very Light Gray Background */
-
-  /* YOUR CUSTOM RADIUS (The "Round & Friendly" Look) */
-  --radius-xl: 1rem;
-  /* 16px rounded corners */
-  --radius-2xl: 1.5rem;
-  /* 24px rounded corners */
-}
-
-/* Base Styles */
+/* Optional: Keep your body style just to be safe */
 body {
-  background-color: var(--color-brand-bg);
-  color: var(--color-brand-dark);
-}
-
-/* Friendly Button Classes */
-.btn-primary {
-  background-color: var(--color-brand-red);
-  color: white;
-  padding: 0.75rem 2rem;
-  border-radius: 9999px;
-  /* Pill Shape */
-  font-weight: 700;
-  box-shadow: 0 4px 6px -1px rgba(220, 20, 60, 0.3);
-  /* Red shadow */
-  transition: all 0.2s;
-}
-
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 15px -3px rgba(220, 20, 60, 0.4);
+  background-color: #f9fafb;
+  /* gray-50 */
+  color: #111827;
+  /* gray-900 */
 }
