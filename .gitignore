@@ -1,11 +1,14 @@
+# --- General ---
+.DS_Store
+*.log
 
-# Python
-venv/
-.venv/
-__pycache__/
-*.pyc
+# --- Frontend ---
+frontend/.next
+frontend/node_modules
+frontend/.env
+frontend/.env.local
 
-# Node
-node_modules/
-.next/
-.env
+# --- Backend ---
+backend/venv/
+backend/__pycache__/
+*.pycgit add .
